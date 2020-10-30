@@ -1,0 +1,101 @@
+*{margin: 0;
+padding: 0;}
+body {
+    background-color: #fafbfc;
+}
+
+a{text-decoration: none;}
+.box1{background-color: #584cc0;
+height: 60px;
+width: 100%;
+}
+img{height: 60px;
+margin-left: 180px;
+float: left;}
+li{list-style-type: none;}
+.box1 ul li {float: left;
+    }
+.box1 ul li a {display: block;
+height: 60px;
+padding: 0 30px;
+line-height: 60px;
+font-size: 20px;
+color: #000000;}
+.box1 ul li a:hover{
+    background-color: #473bb4;
+}
+.search {display: flex;
+    align-items: center;
+    float: left;
+    height: 60px;
+    background-color: #584cc0;}
+.search input {width: 170px;
+    height: 36px;
+    border-radius: 20px;
+    border: 1px solid #584cc0;;}
+h1{font-size: 20px;
+color: #584cc0;
+margin-top: 140px;
+margin-left: 180px;
+margin-bottom: 20px;}
+.box2{margin-left: 180px;
+    margin-right: 180px;
+    background-color: #ffffff;
+    display: flex;
+    height: 360px;
+    width: 1000px;}
+
+.right1 {margin-top: 40px;}
+.right1 ul li {margin-top: 30px;
+             color: #000000 ;
+            margin-left: 30px;}
+.right1 ul li a:hover { background-color:#9991f8;}
+.box2 img {margin-left: 52px;
+           width: 208px;
+           height: 224px;
+           margin-top:70px;}
+.box3 {width: 1000px;
+    height: 420px;
+    margin-left: 180px;}
+.nav ul li {float: left;}
+.nav ul li a {
+    height: 60px;
+   line-height: 60px;
+    font-size: 20px;
+    color: #666666;
+   padding: 0 30px;}
+   .box3 ul li a:hover {
+       border-bottom: 2px solid  #ff9653;}
+    .picture {float: left;;
+        margin-top: 30px; }
+    .picture ul li {float: left;
+        width: 300px;
+        height: 400px;
+        margin-right: 30px;
+        background-color: #ffffff; }
+    .picture img {float: left;
+         height: 400px;
+        width: 300px;
+        margin-left: 30px}
+    .box4{ margin-top: 30px;
+        margin-left: 180px;
+        background-color: #ffffff;
+        display: flex;
+        height: 360px;
+        width: 1000px;}
+    .last{margin-left: 30px;
+        flex-direction: row }
+    .last img {display: block;
+    margin-left: 30px;}
+    .one  {width: 370px;
+    height: 310px;}
+    .two {width: 550;
+    height: 320px;}
+    .box5 {margin-top: 60px;
+        margin-left: -300px;
+        height: 150px;}
+        
+    .box5 img {width: 1370px;
+    height: 100%;}
+    
+ 
